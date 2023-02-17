@@ -1,0 +1,5 @@
+google-cloud-secret-manager==2.15.1
+fastapi==0.92.0
+uvicorn==0.20.0
+google-clou-bigquery==3.5.0
+black==13.1.0
